@@ -1,0 +1,17 @@
+{
+  "name": "testnpm",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "datatables.net-dt": "^1.13.1",
+    "js-datepicker": "^5.18.1",
+    "moment": "^2.29.4"
+  }
+}
